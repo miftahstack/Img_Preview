@@ -4,16 +4,14 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
-    background: #fdf0d5;
-}
 /* ALl CSS Reset */
 
 
-/* BannerPart Start */
+/* LightBox Start */
 
-#banner_part{
+#lightBox{
     padding: 150px;
+    background: #fdf0d5;
     color: #c1121f;
 }
-/* BannerPart End */
+/* LightBox End */
