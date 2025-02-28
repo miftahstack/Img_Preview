@@ -6,4 +6,13 @@ lightbox.option({
   })
   // LightBox End
 
-  
+  // VenoBox Start
+  new VenoBox({
+    selector: '.my-image-links',
+    numeration: true,
+    infinigall: true,
+    share: true,
+    spinner: 'rotating-plane'
+});
+  // VenoBox End
+
