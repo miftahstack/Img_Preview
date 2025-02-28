@@ -6,13 +6,14 @@
 }
 body{
     background: #fdf0d5;
-    color: #c1121f;
-    height: 750px;
-    width: 100%;
 }
 /* ALl CSS Reset */
 
 
 /* BannerPart Start */
 
+#banner_part{
+    padding: 150px;
+    color: #c1121f;
+}
 /* BannerPart End */
