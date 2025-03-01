@@ -10,16 +10,36 @@
 /* LightBox Start */
 
 #lightBox{
-    padding: 150px;
+    padding: 100px 0px;
     background: #fdf0d5;
     color: #c1121f;
+}
+#lightBox h2{
+  text-align: center;
+  color: black
+}
+#lightBox p{
+  text-align: center;
+  color: black
 }
 /* LightBox End */
 
 
 /* VenoBox Start */
 #Venobox{
-  background: #fff;
+  padding: 100px 0px;
+  background: #669bbc;
+
+}
+#Venobox h2{
+  text-align: center;
+  color: white
+
+}
+#Venobox p{
+  text-align: center;
+  color: white
+
 }
 /* VenoBox End */
 
