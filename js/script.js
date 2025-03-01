@@ -68,7 +68,7 @@ $(function(){
 });
 $(function(){
 	$(".typedd").typed({
-		strings: ["Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers."],
+		strings: ["The big difference compared to many others modal-window plugins is that VenoBox calculates the max width of the image displayed and preserves its height if is taller than the window"],
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed
