@@ -16,3 +16,15 @@ lightbox.option({
 });
   // VenoBox End
 
+/* Mixitup Start */
+var containerEl = document.querySelector('.container');
+
+            var mixer = mixitup(containerEl, {
+                multifilter: {
+                    enable: true
+                },
+                animation: {
+                    effects: 'fade translateZ(-100px)'
+                }
+            });
+/* Mixitup End */

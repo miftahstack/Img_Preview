@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 /* ALl CSS Reset */
 
@@ -16,7 +17,8 @@
 }
 #lightBox h2{
   text-align: center;
-  color: black
+  color: black;
+   font-family: "Ubuntu", sans-serif;
 }
 #lightBox p{
   text-align: center;
@@ -26,19 +28,30 @@
 
 
 /* VenoBox Start */
-#Venobox{
+#venobox{
   padding: 100px 0px;
   background: #669bbc;
 
 }
-#Venobox h2{
+#venobox h2{
   text-align: center;
-  color: white
+  color: white;
+   font-family: "Ubuntu", sans-serif;
 
 }
-#Venobox p{
+#venobox p{
   text-align: center;
   color: white
 }
 /* VenoBox End */
+
+/* MixitUp Start */
+#mixitup{
+  padding: 100px;
+  background: #edede9;
+}
+/* MixitUp End */
+
+
+
 
