@@ -11,7 +11,7 @@
 /* LightBox Start */
 
 #lightBox{
-    padding: 100px 0px;
+    padding: 90px 0px;
     background: #fdf0d5;
     color: #c1121f;
 }
@@ -19,17 +19,19 @@
   text-align: center;
   color: black;
    font-family: "Ubuntu", sans-serif;
-}
+   font-size: 50px;
+  padding-bottom: 5px;}
 #lightBox p{
   text-align: center;
-  color: black
+  color: black;
+  padding-bottom: 10px;
 }
 /* LightBox End */
 
 
 /* VenoBox Start */
 #venobox{
-  padding: 100px 0px;
+  padding: 90px 0px;
   background: #669bbc;
 
 }
@@ -37,11 +39,15 @@
   text-align: center;
   color: white;
    font-family: "Ubuntu", sans-serif;
-
+   font-size: 50px;
+   padding-bottom: 5px;
 }
 #venobox p{
   text-align: center;
-  color: white
+  color: white;
+  padding-bottom: 10px;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 /* VenoBox End */
 
@@ -49,6 +55,10 @@
 #mixitup{
   padding: 100px;
   background: #edede9;
+}
+#mixitup .btn{
+  text-transform: uppercase ;
+  text-align:center;
 }
 /* MixitUp End */
 

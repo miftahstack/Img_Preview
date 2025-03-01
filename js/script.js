@@ -17,7 +17,7 @@ lightbox.option({
   // VenoBox End
 
 /* Mixitup Start */
-var containerEl = document.querySelector('.container');
+var containerEl = document.querySelector('.mixitUP');
 
             var mixer = mixitup(containerEl, {
                 multifilter: {
