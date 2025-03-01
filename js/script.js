@@ -37,7 +37,7 @@ $(function(){
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed
-		typeSpeed: 0,
+		typeSpeed: 20,
 		// time before typing starts
 		startDelay: 1000,
 		// backspacing speed
@@ -67,12 +67,12 @@ $(function(){
 	});
 });
 $(function(){
-	$(".typed").typed({
+	$(".typedd").typed({
 		strings: ["Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers."],
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed
-		typeSpeed: 0,
+		typeSpeed: 20,
 		// time before typing starts
 		startDelay: 1000,
 		// backspacing speed
@@ -101,5 +101,6 @@ $(function(){
 		resetCallback: function() {}
 	});
 });
+
 
 /* Mixitup End */

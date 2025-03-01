@@ -101,7 +101,16 @@
 
 /*Add custom cursor so it auto inherits font styles*/
 .typed::after {
-	content: '|';
+	content: ' XD';
+	display: inline;
+  color: #c1121f;
+	-webkit-animation: blink 0.7s infinite;
+	-moz-animation: blink 0.7s infinite;
+	animation: blink 0.7s infinite;
+}
+.typedd::after {
+	content: ' :)';
+  color: black;
 	display: inline;
 	-webkit-animation: blink 0.7s infinite;
 	-moz-animation: blink 0.7s infinite;
